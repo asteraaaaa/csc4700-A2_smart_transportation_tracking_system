@@ -1,0 +1,13 @@
+# Wi-Fi and ThingsBoard credentials (keep them out of the repo)
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
